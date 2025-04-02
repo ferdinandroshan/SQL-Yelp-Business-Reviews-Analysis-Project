@@ -5,7 +5,9 @@ This project analyzes a **5+ GB Yelp Business Reviews dataset** using **Snowflak
 
 ## Objectives  
 ✅ Process a **large 5+ GB JSON dataset** efficiently.
+
 ✅ Convert **JSON data** into a **tabular format** for analysis.
+
 ✅ Answer **10 key business questions** using Snowflake SQL.
 
 ## 📌 Technologies & Concepts Learned & Implemented  
